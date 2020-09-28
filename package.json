@@ -1,0 +1,19 @@
+{
+  "name": "franchyze-bot",
+  "version": "1.0.0",
+  "description": "A bot for my twitch channel",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdavidfrancis/franchyze-bot.git"
+  },
+  "author": "David Francis <david@iamdavidfrancis.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdavidfrancis/franchyze-bot/issues"
+  },
+  "homepage": "https://github.com/iamdavidfrancis/franchyze-bot#readme"
+}
